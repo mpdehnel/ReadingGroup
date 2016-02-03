@@ -4,10 +4,10 @@
     <title>Security Reading Group</title>
     <description>University of Oxford Security Reading Group: Information page and archive.
 </description>
-    <link>https://mpdehnel.github.io/ReadingGroup//</link>
-    <atom:link href="https://mpdehnel.github.io/ReadingGroup//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 03 Feb 2016 17:12:52 +0000</pubDate>
-    <lastBuildDate>Wed, 03 Feb 2016 17:12:52 +0000</lastBuildDate>
+    <link>https://mpdehnel.github.io/ReadingGroup/</link>
+    <atom:link href="https://mpdehnel.github.io/ReadingGroup/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 03 Feb 2016 17:20:41 +0000</pubDate>
+    <lastBuildDate>Wed, 03 Feb 2016 17:20:41 +0000</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Wed, 03 Feb 2016 15:36:15 +0000</pubDate>
-        <link>https://mpdehnel.github.io/ReadingGroup//jekyll/update/2016/02/03/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">https://mpdehnel.github.io/ReadingGroup//jekyll/update/2016/02/03/welcome-to-jekyll.html</guid>
+        <link>https://mpdehnel.github.io/ReadingGroup/jekyll/update/2016/02/03/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://mpdehnel.github.io/ReadingGroup/jekyll/update/2016/02/03/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
