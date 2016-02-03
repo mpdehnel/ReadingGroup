@@ -26,7 +26,7 @@ Please note:
 
 * 22nd January 2016, `Dismantling MIFARE Classic` by Flavio Garcia et al. (ESORICS 2008) [PDF](http://www.cs.ru.nl/~rverdult/Dismantling_MIFARE_Classic-ESORICS_2008.pdf). [Springer Link](http://link.springer.com/chapter/10.1007/978-3-540-88313-5_7).
 
-* 15th January 2016, `The Moral Character of Cryptographic Work` Philip Rogaway, (Position Paper, 2015) [PDF](http://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf).
+* 15th January 2016, `The Moral Character of Cryptographic Work` by Philip Rogaway, (Position Paper, 2015) [PDF](http://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf).
 
 #### 2015:
 
@@ -62,7 +62,7 @@ Please note:
 
 * 29th May 2015, `Unique in the Shopping Mall: On the Reidentifiability of Credit Card Metadata` by Yves-Alexandre de Montjoye et al., (Science 347(6221), pp. 536-539, 2015). [PDF](http://dspace.mit.edu/openaccess-disseminate/1721.1/96321). [Science](http://science.sciencemag.org/content/347/6221/536.short).
 
-* 28th May 2015, `Towards a Model of Information Healthcare`, by Ivan Fléchais (Discussion, Oxford 2015). [PDF](https://cups.cs.cmu.edu/soups/2015/posters/soups2015_posters-final19.pdf).
+* 28th May 2015, `Towards a Model of Information Healthcare` by Ivan Fléchais (Discussion, Oxford 2015). [PDF](https://cups.cs.cmu.edu/soups/2015/posters/soups2015_posters-final19.pdf).
 
 * 22nd May 2015, The independent and almost simultaneous discovery of public key cryptography by Cocks, Williamson, Rivest, Shamir & Adelman. Discussion surrounding the following various papers, linked together neatly by this main [Wired article](http://www.wired.com/1999/04/crypto/). [Cocks' 1973 memo on `Non-secret encryption`](http://www.fi.muni.cz/usr/matyas/lecture/paper2.pdf). [The original `RSA` paper](https://people.csail.mit.edu/rivest/Rsapaper.pdf). [Original `DH` paper](http://www.cs.tau.ac.il/~bchor/diffie-hellman.pdf).
 
