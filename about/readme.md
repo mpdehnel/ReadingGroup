@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Readme for Martin
-permalink: /readme
+permalink: /about/readme
 ---
 
 
