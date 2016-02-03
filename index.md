@@ -22,7 +22,7 @@ Please note:
 
 * 5th February 2016, `Get Your Hands Off My Laptop: Physical Side-Channel Key-Extraction Attacks on PCs` by Genkin et al. (Journal of Cryptographic Engineering, 2015). [PDF](https://eprint.iacr.org/2014/626.pdf). [Springer Link](http://link.springer.com/chapter/10.1007%2F978-3-662-44709-3_14#page-1).
 
-* 29th January 2016, `Another Look at Security Definitions` by Koblitz and Menezes, (Advances in Mathematics of Communications, 7 (2013), 1-38.). [PDF](http://cacr.uwaterloo.ca/techreports/2011/cacr2011-25.pdf). [Website](http://cacr.uwaterloo.ca/~ajmeneze/anotherlook/definitions.shtml).
+* 29th January 2016, `Another Look at Security Definitions` by Koblitz and Menezes, (Advances in Mathematics of Communications, 2013). [PDF](http://cacr.uwaterloo.ca/techreports/2011/cacr2011-25.pdf). [Website](http://cacr.uwaterloo.ca/~ajmeneze/anotherlook/definitions.shtml).
 
 * 22nd January 2016, `Dismantling MIFARE Classic` by Flavio Garcia et al. (ESORICS 2008). [PDF](http://www.cs.ru.nl/~rverdult/Dismantling_MIFARE_Classic-ESORICS_2008.pdf). [Springer Link](http://link.springer.com/chapter/10.1007/978-3-540-88313-5_7).
 
