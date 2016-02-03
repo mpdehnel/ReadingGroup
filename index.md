@@ -20,13 +20,13 @@ Please note:
 
 #### 2016:
 
-* 5th February 2016, `Get Your Hands Off My Laptop: Physical Side-Channel Key-Extraction Attacks on PCs` by Genkin et al. (Journal of Cryptographic Engineering, 2015) [PDF](https://eprint.iacr.org/2014/626.pdf). [Springer Link](http://link.springer.com/chapter/10.1007%2F978-3-662-44709-3_14#page-1).
+* 5th February 2016, `Get Your Hands Off My Laptop: Physical Side-Channel Key-Extraction Attacks on PCs` by Genkin et al. (Journal of Cryptographic Engineering, 2015). [PDF](https://eprint.iacr.org/2014/626.pdf). [Springer Link](http://link.springer.com/chapter/10.1007%2F978-3-662-44709-3_14#page-1).
 
-* 29th January 2016, `Another Look at Security Definitions` by Koblitz and Menezes, (Advances in Mathematics of Communications, 7 (2013), 1-38.) [PDF](http://cacr.uwaterloo.ca/techreports/2011/cacr2011-25.pdf). [Website](http://cacr.uwaterloo.ca/~ajmeneze/anotherlook/definitions.shtml).
+* 29th January 2016, `Another Look at Security Definitions` by Koblitz and Menezes, (Advances in Mathematics of Communications, 7 (2013), 1-38.). [PDF](http://cacr.uwaterloo.ca/techreports/2011/cacr2011-25.pdf). [Website](http://cacr.uwaterloo.ca/~ajmeneze/anotherlook/definitions.shtml).
 
-* 22nd January 2016, `Dismantling MIFARE Classic` by Flavio Garcia et al. (ESORICS 2008) [PDF](http://www.cs.ru.nl/~rverdult/Dismantling_MIFARE_Classic-ESORICS_2008.pdf). [Springer Link](http://link.springer.com/chapter/10.1007/978-3-540-88313-5_7).
+* 22nd January 2016, `Dismantling MIFARE Classic` by Flavio Garcia et al. (ESORICS 2008). [PDF](http://www.cs.ru.nl/~rverdult/Dismantling_MIFARE_Classic-ESORICS_2008.pdf). [Springer Link](http://link.springer.com/chapter/10.1007/978-3-540-88313-5_7).
 
-* 15th January 2016, `The Moral Character of Cryptographic Work` by Philip Rogaway, (Position Paper, 2015) [PDF](http://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf).
+* 15th January 2016, `The Moral Character of Cryptographic Work` by Philip Rogaway, (Position Paper, 2015). [PDF](http://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf).
 
 #### 2015:
 
@@ -78,7 +78,7 @@ Please note:
 
 * 27th February 2015, `PowerSpy: Location Tracking using Mobile Device Power Analysis` by Yan Michalevsky, et al., (USENIX Security 15, arXiv 1502.03182v1.pdf, 2015). [PDF](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-michalevsky.pdf).
 
-* 13th February 2015, `The Quest to Replace Passwords: A Framework for Comparative Evaluation of Web Authentication Schemes` by Bonneau, et al., [IEEE Open Access](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6234436) and `Pico: No more passwords!` by Frank Stajano (Security Protocols XIX, 2011). [PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.221.2090&rep=rep1&type=pdf). [Springer Link](http://link.springer.com/chapter/10.1007/978-3-642-25867-1_6).
+* 13th February 2015, `The Quest to Replace Passwords: A Framework for Comparative Evaluation of Web Authentication Schemes` by Bonneau, et al., [IEEE Open Access](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6234436), and `Pico: No more passwords!` by Frank Stajano (Security Protocols XIX, 2011). [PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.221.2090&rep=rep1&type=pdf). [Springer Link](http://link.springer.com/chapter/10.1007/978-3-642-25867-1_6).
 
 * 30th January 2015 `Citizen Electronic Identities using TPM 2.0` by Nyman, et al. (TrustED'14, Scottsdale, Arizona, 3--7 November 2014). [PDF](http://arxiv.org/pdf/1409.1023.pdf). [ACM](http://dl.acm.org/citation.cfm?id=2666146).
 
@@ -94,7 +94,7 @@ Please note:
 
 * 7th November 2014, `Harvesting high value foreign currency transactions from EMV contactless credit cards without the PIN` by Martin Emms et al. (CCS 14). [PDF](http://homepages.cs.ncl.ac.uk/budi.arief/home.formal/Papers/CCS2014.pdf). [BBC](http://www.bbc.co.uk/news/business-29861514). [Gizmodo](http://gizmodo.com/report-a-flaw-in-visas-contactless-card-lets-anyone-ch-1653974432). [Wired](http://www.wired.com/2014/11/chip-n-pin-foreign-currency-vulnerability/).
 
-* 31st October 2014, `Here Come The ⊕ Ninjas` by Duong and Rizzo (Unpublished whitepaper, 2011) [PDF](http://nerdoholic.org/uploads/dergln/beast_part2/ssl_jun21.pdf). [Alternate](http://www.hpcc.ecs.soton.ac.uk/~dan/talks/bullrun/Beast.pdf).
+* 31st October 2014, `Here Come The ⊕ Ninjas` by Duong and Rizzo (Unpublished whitepaper, 2011). [PDF](http://nerdoholic.org/uploads/dergln/beast_part2/ssl_jun21.pdf). [Alternate](http://www.hpcc.ecs.soton.ac.uk/~dan/talks/bullrun/Beast.pdf).
 
 * 24th October 2014, `Rosemary: A Robust, Secure, and High-performance Network Operating System` by Seungwon Shin et al. (CCS 2014). [PDF](http://www.csl.sri.com/users/vinod/papers/rosemary.pdf). [ACM](http://dl.acm.org/citation.cfm?id=2660353).
 
