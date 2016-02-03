@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Security Reading Group</title>
-    <description>University of Oxford Security Reading Group: Information page and archive.
+    <description>University of Oxford Security Reading Group: Information Page and Paper Archive.
 </description>
     <link>https://mpdehnel.github.io/ReadingGroup/</link>
     <atom:link href="https://mpdehnel.github.io/ReadingGroup/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 03 Feb 2016 19:40:19 +0000</pubDate>
-    <lastBuildDate>Wed, 03 Feb 2016 19:40:19 +0000</lastBuildDate>
+    <pubDate>Wed, 03 Feb 2016 21:00:21 +0000</pubDate>
+    <lastBuildDate>Wed, 03 Feb 2016 21:00:21 +0000</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
     
       <item>

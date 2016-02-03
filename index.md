@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Security Reading Group
+title: Oxford Security Reading Group
 permalink: /
 ---
 
@@ -10,7 +10,13 @@ This is the website for the University of Oxford Security Reading Group. Here yo
 We typically meet on Fridays at 3pm, in Robert Hooke Building (RHB), Room 114. Access is from the Computer Science entrance just off Parks Road, next to the Museum of Natural History. To be added to the mailing list, please email [Martin Dehnel-Wild](mailto:martin.dehnel-wild@cs.ox.ac.uk). Upcoming meetings are normally listed after the weekly email has gone out on the [Cyber Security Calendar](https://www.google.com/calendar/embed?src=fg56lmvbg5cd7dne58gssm9ido%40group.calendar.google.com&ctz=Europe/London).
 
 ## Archive of Papers
-Please see the following list for papers we have read in recent weeks, in reverse chronological order. Links will be to open-access PDFs where possible, but these are not always available. The initial date is the date of the reading group, not the publication of the paper. New papers will be added when I remember. Where the publication venue says 'Discussion', this was a discussion-group meeting (included for completeness), rather than a reading group.
+Please see the following list for papers we have read in recent weeks, in reverse chronological order. 
+Please note:
+
+* Links will be to open-access PDFs/pre-prints *where possible*, but unfortunately these are not always available. I have tried to include multiple links to both open-access and paywall (e.g. ACM, Springer Link, IEEE) for each in case of dead links, and for ease of citation.
+* The initial date is the date of the reading group, not the publication of the paper. 
+* New papers will be added when I remember. [Email me](mailto:martin.dehnel-wild@cs.ox.ac.uk?subject=Martin you've forgotten to update the Reading Group Website) if I forget. :-) 
+* Where the publication venue says 'Discussion', this was a discussion-group meeting (included for completeness), rather than a reading group.
 
 #### 2016:
 
@@ -76,5 +82,22 @@ Please see the following list for papers we have read in recent weeks, in revers
 
 * 30th January 2015 `Citizen Electronic Identities using TPM 2.0` by Nyman, et al. (TrustED'14, Scottsdale, Arizona, 3--7 November 2014). [PDF](http://arxiv.org/pdf/1409.1023.pdf). [ACM](http://dl.acm.org/citation.cfm?id=2666146).
 
+#### 2014:
 
-Many thanks are due to [Joe Loughry](https://www.cs.ox.ac.uk/people/joe.loughry/) for keeping such immaculate records.
+* 12th December 2014, `New Directions in Cryptography` by Diffie and Hellman, (IEEE Transactions on Information Theory, vol.22, no.6, pp.644,654, Nov 1976). [PDF](https://www-ee.stanford.edu/~hellman/publications/24.pdf). [ACM](http://dl.acm.org/citation.cfm?id=2269104).
+
+* 5th December 2014, `A Critical Evaluation of Website Fingerprinting Attacks` by Juarez et al. (CCS 14). [PDF](https://www.eecs.berkeley.edu/~sa499/papers/ccs-webfp-final.pdf). [ACM](http://dl.acm.org/citation.cfm?id=2660267.2660368).
+
+* 28th November 2014, `Large Scale Test of Sensor Fingerprint Camera Identification` by Goljan, Fridrich, and Filler. (IS&T/SPIE Electronic Imaging, 2009). [PDF](http://www.ws.binghamton.edu/fridrich/Research/EI7254-18.pdf). [SPIE](http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=1335147).
+
+* 14th Novemeber 2014, `Interoperable Remote Attestation for VPN Environments` by Bente et al. (Trusted Systems 2010). [Springer Link](http://link.springer.com/chapter/10.1007/978-3-642-25283-9_20#page-1).
+
+* 7th November 2014, `Harvesting high value foreign currency transactions from EMV contactless credit cards without the PIN` by Martin Emms et al. (CCS 14). [PDF](http://homepages.cs.ncl.ac.uk/budi.arief/home.formal/Papers/CCS2014.pdf). [BBC](http://www.bbc.co.uk/news/business-29861514). [Gizmodo](http://gizmodo.com/report-a-flaw-in-visas-contactless-card-lets-anyone-ch-1653974432). [Wired](http://www.wired.com/2014/11/chip-n-pin-foreign-currency-vulnerability/).
+
+* 31st October 2014, `Here Come The ⊕ Ninjas` by Duong and Rizzo (Unpublished whitepaper, 2011) [PDF](http://nerdoholic.org/uploads/dergln/beast_part2/ssl_jun21.pdf). [Alternate](http://www.hpcc.ecs.soton.ac.uk/~dan/talks/bullrun/Beast.pdf).
+
+* 24th October 2014, `Rosemary: A Robust, Secure, and High-performance Network Operating System` by Seungwon Shin et al. (CCS 2014). [PDF](http://www.csl.sri.com/users/vinod/papers/rosemary.pdf). [ACM](http://dl.acm.org/citation.cfm?id=2660353).
+
+* 17th October 2014, `Deniable Liaisons` by Abhinav Narain, Nick Feamster and Alex C. Snoeren (CCS 2014). [PDF](http://www.cc.gatech.edu/grads/n/nabhinav/ccs2014.pdf). [ACM](http://dl.acm.org/citation.cfm?id=2660340).
+
+Many thanks are due to [Joe Loughry](https://www.cs.ox.ac.uk/people/joe.loughry/) for keeping such immaculate records, and to [Andrew Paverd](https://www.cs.ox.ac.uk/people/andrew.paverd/) for having run the reading group so successfully before me.
