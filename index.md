@@ -32,7 +32,7 @@ Please note:
 
 * 11th December 2015, `Experimental Analysis of Attacks on Next Generation Air Traffic Communication` by Schäfer, et al. (ANCS 2013). [PDF](http://www.lenders.ch/publications/conferences/acns13.pdf). [Springer Link](http://link.springer.com/chapter/10.1007/978-3-642-38980-1_16). 
 
-* 27th November 2015, `VCR: App-Agnostic Recovery of Photographic Evidence from Android Device Memory Images` by Saltafromaggio, et al. (ACM CCS, 2015). [PDF](https://www.cs.purdue.edu/homes/bsaltafo/pubs/CCS_15_VCR.pdf). [ACM](http://dl.acm.org/citation.cfm?id=2813720).
+* 27th November 2015, `VCR: App-Agnostic Recovery of Photographic Evidence from Android Device Memory Images` by Saltaformaggio, et al. (ACM CCS, 2015). [PDF](https://www.cs.purdue.edu/homes/bsaltafo/pubs/CCS_15_VCR.pdf). [ACM](http://dl.acm.org/citation.cfm?id=2813720).
 
 * 20th November 2015, `Security Considerations for IEEE 802.15.4 Networks` by Naveen Sastry and David Wagner (WiSE'04: Philadelphia, 2004). [PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.61.4359&rep=rep1&type=pdf). [ACM](http://dl.acm.org/citation.cfm?id=1023654).
 
