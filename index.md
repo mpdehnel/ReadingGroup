@@ -20,6 +20,8 @@ Please note:
 
 #### 2016:
 
+* 26th February 2016, `Attacking and Fixing PKCS#11 Security Tokens` by Bortolozzo et al. (CCS 2010). [PDF](http://www.lsv.ens-cachan.fr/Publis/PAPERS/PDF/BCFS-ccs10.pdf). [ACM](http://dl.acm.org/citation.cfm?id=1866337).
+
 * 19th February 2016, `Ghost Talk: Mitigating EMI Signal Injection Attacks against Analog Sensors` by Kune et al. (Oakland 2013). [PDF](https://spqr.eecs.umich.edu/papers/fookune-emi-oakland13.pdf). [IEEE](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6547107).
 
 * 5th February 2016, `Get Your Hands Off My Laptop: Physical Side-Channel Key-Extraction Attacks on PCs` by Genkin et al. (Journal of Cryptographic Engineering, 2015). [PDF](https://eprint.iacr.org/2014/626.pdf). [Springer Link](http://link.springer.com/chapter/10.1007%2F978-3-662-44709-3_14#page-1).
