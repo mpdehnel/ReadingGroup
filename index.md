@@ -20,7 +20,7 @@ Please note:
 
 #### 2016:
 
-* 18th March, 2016, `Do You Believe in Tinker Bell? The Social Externalities of Trust` by Khaled Baqer and Ross Anderson (Security Protocols XXIII). [PDF](https://www.cl.cam.ac.uk/~rja14/Papers/spw15-12-Anderson.pdf). [Springer Link](https://link.springer.com/chapter/10.1007/978-3-319-26096-9_23).
+* 18th March 2016, `Do You Believe in Tinker Bell? The Social Externalities of Trust` by Khaled Baqer and Ross Anderson (Security Protocols XXIII). [PDF](https://www.cl.cam.ac.uk/~rja14/Papers/spw15-12-Anderson.pdf). [Springer Link](https://link.springer.com/chapter/10.1007/978-3-319-26096-9_23).
 
 * 11th March 2016, `Practical Attacks Against Privacy and Availability in 4G/LTE Mobile Communication Systems` by Shaik et al. (NDSS 2016). [InternetSociety](https://www.internetsociety.org/sites/default/files/blogs-media/practical-attacks-against-privacy-availability-4g-lte-mobile-communication-systems.pdf).
 
