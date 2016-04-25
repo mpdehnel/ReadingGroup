@@ -20,6 +20,8 @@ Please note:
 
 #### 2016:
 
+* 29th April 2016, `A Systematic Analysis of the Juniper Dual EC Incident` by Checkoway et al. (IACR ePrint). [PDF](http://eprint.iacr.org/2016/376.pdf).
+
 * 18th March 2016, `Do You Believe in Tinker Bell? The Social Externalities of Trust` by Khaled Baqer and Ross Anderson (Security Protocols XXIII). [PDF](https://www.cl.cam.ac.uk/~rja14/Papers/spw15-12-Anderson.pdf). [Springer Link](https://link.springer.com/chapter/10.1007/978-3-319-26096-9_23).
 
 * 11th March 2016, `Practical Attacks Against Privacy and Availability in 4G/LTE Mobile Communication Systems` by Shaik et al. (NDSS 2016). [InternetSociety](https://www.internetsociety.org/sites/default/files/blogs-media/practical-attacks-against-privacy-availability-4g-lte-mobile-communication-systems.pdf).
