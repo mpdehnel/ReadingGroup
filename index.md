@@ -20,6 +20,8 @@ Please note:
 
 #### 2016:
 
+* 13th May 2016, `Combining Differential Privacy and Secure Multiparty Computation` by Pettai and Laud (IACR ePrint, ACSAC 2015). [PDF](https://eprint.iacr.org/2015/598).
+
 * 6th May 2016, `Du-Vote: Remote Electronic Voting with Untrusted Computers` by Grewal, Ryan, Chen, and Clarkson (CSF 2015). [PDF](https://www.cs.bham.ac.uk/~mdr/research/papers/pdf/15-Du-Vote.pdf). [IEEE](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7243731&tag=1).
 
 * 29th April 2016, `A Systematic Analysis of the Juniper Dual EC Incident` by Checkoway et al. (IACR ePrint). [PDF](http://eprint.iacr.org/2016/376.pdf).
