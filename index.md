@@ -20,7 +20,9 @@ Please note:
 
 #### 2016:
 
-* 13th May 2016, `Combining Differential Privacy and Secure Multiparty Computation` by Pettai and Laud (IACR ePrint, ACSAC 2015). [PDF](https://eprint.iacr.org/2015/598.pdf).
+* 17th June 2016, `A2: Analog Malicious Hardware` by Yang, Hicks, Dong, Austin, and Sylvester (IEEE S&P 2016). [PDF](http://www.ieee-security.org/TC/SP2016/papers/0824a018.pdf).
+
+* 3rd June 2016, `Combining Differential Privacy and Secure Multiparty Computation` by Pettai and Laud (IACR ePrint, ACSAC 2015). [PDF](https://eprint.iacr.org/2015/598.pdf).
 
 * 6th May 2016, `Du-Vote: Remote Electronic Voting with Untrusted Computers` by Grewal, Ryan, Chen, and Clarkson (CSF 2015). [PDF](https://www.cs.bham.ac.uk/~mdr/research/papers/pdf/15-Du-Vote.pdf). [IEEE](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7243731&tag=1).
 
