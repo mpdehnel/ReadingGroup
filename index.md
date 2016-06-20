@@ -20,7 +20,9 @@ Please note:
 
 #### 2016:
 
-* 17th June 2016, `A2: Analog Malicious Hardware` by Yang, Hicks, Dong, Austin, and Sylvester (IEEE S&P 2016). [PDF](http://www.ieee-security.org/TC/SP2016/papers/0824a018.pdf).
+* 24th June 2016, `Automated reasoning for equivalences in the applied pi calculus with barriers` by Blanchet and Smyth (CSF 2016). [HAL](https://hal.inria.fr/hal-01306440/). [PDF](http://prosecco.gforge.inria.fr/personal/bblanche/publications/BlanchetSmythCSF16.pdf).
+
+* 17th June 2016, `A2: Analog Malicious Hardware` by Yang, Hicks, Dong, Austin, and Sylvester (IEEE S&P 2016). [IEEE](http://www.ieee-security.org/TC/SP2016/papers/0824a018.pdf). [PDF](http://static1.1.sqspcdn.com/static/f/543048/26931843/1464016046717/A2_SP_2016.pdf).
 
 * 3rd June 2016, `Combining Differential Privacy and Secure Multiparty Computation` by Pettai and Laud (IACR ePrint, ACSAC 2015). [PDF](https://eprint.iacr.org/2015/598.pdf).
 
