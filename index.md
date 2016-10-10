@@ -20,6 +20,8 @@ Please note:
 
 #### 2016:
 
+* 14th October 2016, `Measurement and Analysis of Private Key Sharing in the HTTPS Ecosystem` by Cangialosi et al. (CCS 2016). [PDF](http://www.ccs.neu.edu/home/amislove/publications/KeySharing-CCS.pdf).
+
 * 24th June 2016, `Automated reasoning for equivalences in the applied pi calculus with barriers` by Blanchet and Smyth (CSF 2016). [HAL](https://hal.inria.fr/hal-01306440/). [PDF](http://prosecco.gforge.inria.fr/personal/bblanche/publications/BlanchetSmythCSF16.pdf).
 
 * 17th June 2016, `A2: Analog Malicious Hardware` by Yang, Hicks, Dong, Austin, and Sylvester (IEEE S&P 2016). [IEEE](http://www.ieee-security.org/TC/SP2016/papers/0824a018.pdf). [PDF](http://static1.1.sqspcdn.com/static/f/543048/26931843/1464016046717/A2_SP_2016.pdf).
