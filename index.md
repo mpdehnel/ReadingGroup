@@ -20,6 +20,8 @@ Please note:
 
 #### 2016:
 
+* 4th November 2016, `A Surfeit of SSH Cipher Suites` by Albrecht et al. [PDF](http://www.isg.rhul.ac.uk/~kp/surfeit.pdf).
+
 * 21st October 2016, `Measuring small subgroup attacks against Diffie-Hellman` by Valenta et al. [PDF](http://eprint.iacr.org/2016/995.pdf).
 
 * 14th October 2016, `Measurement and Analysis of Private Key Sharing in the HTTPS Ecosystem` by Cangialosi et al. (CCS 2016). [PDF](http://www.ccs.neu.edu/home/amislove/publications/KeySharing-CCS.pdf).
