@@ -20,7 +20,7 @@ Please note:
 
 #### 2016:
 
-* 4th November 2016, `A Surfeit of SSH Cipher Suites` by Albrecht et al. [PDF](http://www.isg.rhul.ac.uk/~kp/surfeit.pdf).
+* 4th November 2016, `A Surfeit of SSH Cipher Suites` by Albrecht et al. [PDF](http://www.isg.rhul.ac.uk/~kp/surfeit.pdf). [ACM](http://dl.acm.org/citation.cfm?id=2978364).
 
 * 21st October 2016, `Measuring small subgroup attacks against Diffie-Hellman` by Valenta et al. [PDF](http://eprint.iacr.org/2016/995.pdf).
 
