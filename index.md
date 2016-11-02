@@ -7,7 +7,7 @@ permalink: /
 This is the website for the University of Oxford Security Reading Group. Here you will find contact information for how to join the mailing list, meeting information, and a list of the papers we have read and discussed historically.
 
 ### Further Information
-We typically meet on Fridays at 3pm, in Robert Hooke Building (RHB), Room 114. Access is from the Computer Science entrance just off Parks Road, next to the Museum of Natural History. To be added to the mailing list, please email [Martin Dehnel-Wild](mailto:martin.dehnel-wild@cs.ox.ac.uk). Upcoming meetings are normally listed after the weekly email has gone out on the [Cyber Security Calendar](https://www.google.com/calendar/embed?src=fg56lmvbg5cd7dne58gssm9ido%40group.calendar.google.com&ctz=Europe/London).
+We typically meet on Fridays at 3pm, in Robert Hooke Building (RHB), Tony Hoare Room. Access is from the Computer Science entrance just off Parks Road, next to the Museum of Natural History. To be added to the mailing list, please email [Martin Dehnel-Wild](mailto:martin.dehnel-wild@cs.ox.ac.uk). Upcoming meetings are normally listed after the weekly email has gone out on the [Cyber Security Calendar](https://www.google.com/calendar/embed?src=fg56lmvbg5cd7dne58gssm9ido%40group.calendar.google.com&ctz=Europe/London).
 
 ## Archive of Papers
 Please see the following list for papers we have read in recent weeks, in reverse chronological order. 
