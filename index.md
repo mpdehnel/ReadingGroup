@@ -20,6 +20,8 @@ Please note:
 
 #### 2016:
 
+* 11th November 2016, `HORNET: High-speed Onion Routing at the Network Layer` by Chen et al. [PDF](https://arxiv.org/pdf/1507.05724v1.pdf). [ACM](http://dl.acm.org/citation.cfm?id=2813628).
+
 * 4th November 2016, `A Surfeit of SSH Cipher Suites` by Albrecht et al. [PDF](http://www.isg.rhul.ac.uk/~kp/surfeit.pdf). [ACM](http://dl.acm.org/citation.cfm?id=2978364).
 
 * 21st October 2016, `Measuring small subgroup attacks against Diffie-Hellman` by Valenta et al. [PDF](http://eprint.iacr.org/2016/995.pdf).
