@@ -20,6 +20,10 @@ Please note:
 
 #### 2016:
 
+* 25th November 2016, `SIBRA: Scalable Internet Bandwidth Reservation Architecture` by Basescu et al. (NDSS’16). [PDF](http://www.scion-architecture.net/pdf/2016-SIBRA.pdf).
+
+* 18th November 2016, `Novel session initiation protocol-based distributed denial-of-service attacks and effective defense strategies` by Tas et al. [ScienceDirect](http://www.sciencedirect.com/science/article/pii/S0167404816300980).
+
 * 11th November 2016, `HORNET: High-speed Onion Routing at the Network Layer` by Chen et al. [PDF](https://arxiv.org/pdf/1507.05724v1.pdf). [ACM](http://dl.acm.org/citation.cfm?id=2813628).
 
 * 4th November 2016, `A Surfeit of SSH Cipher Suites` by Albrecht et al. [PDF](http://www.isg.rhul.ac.uk/~kp/surfeit.pdf). [ACM](http://dl.acm.org/citation.cfm?id=2978364).
