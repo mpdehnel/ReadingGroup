@@ -20,13 +20,15 @@ Please note:
 
 #### 2016:
 
+* 20th January 2017, `A Unilateral-to-Mutual Authentication Compiler for Key Exchange (with Applications to Client Authentication in TLS 1.3)` by Hugo Krawczyk. (CCS'16). [ACM](https://dl.acm.org/citation.cfm?id=2978325)
+
 * 25th November 2016, `SIBRA: Scalable Internet Bandwidth Reservation Architecture` by Basescu et al. (NDSS’16). [PDF](http://www.scion-architecture.net/pdf/2016-SIBRA.pdf).
 
 * 18th November 2016, `Novel session initiation protocol-based distributed denial-of-service attacks and effective defense strategies` by Tas et al. [ScienceDirect](http://www.sciencedirect.com/science/article/pii/S0167404816300980).
 
-* 11th November 2016, `HORNET: High-speed Onion Routing at the Network Layer` by Chen et al. [PDF](https://arxiv.org/pdf/1507.05724v1.pdf). [ACM](http://dl.acm.org/citation.cfm?id=2813628).
+* 11th November 2016, `HORNET: High-speed Onion Routing at the Network Layer` by Chen et al. [PDF](https://arxiv.org/pdf/1507.05724v1.pdf). [ACM](https://dl.acm.org/citation.cfm?id=2813628).
 
-* 4th November 2016, `A Surfeit of SSH Cipher Suites` by Albrecht et al. [PDF](http://www.isg.rhul.ac.uk/~kp/surfeit.pdf). [ACM](http://dl.acm.org/citation.cfm?id=2978364).
+* 4th November 2016, `A Surfeit of SSH Cipher Suites` by Albrecht et al. [PDF](http://www.isg.rhul.ac.uk/~kp/surfeit.pdf). [ACM](https://dl.acm.org/citation.cfm?id=2978364).
 
 * 21st October 2016, `Measuring small subgroup attacks against Diffie-Hellman` by Valenta et al. [PDF](http://eprint.iacr.org/2016/995.pdf).
 
@@ -46,9 +48,9 @@ Please note:
 
 * 11th March 2016, `Practical Attacks Against Privacy and Availability in 4G/LTE Mobile Communication Systems` by Shaik et al. (NDSS 2016). [InternetSociety](https://www.internetsociety.org/sites/default/files/blogs-media/practical-attacks-against-privacy-availability-4g-lte-mobile-communication-systems.pdf).
 
-* 4th March 2016, `Client-based authentication technology: user-centric authentication using secure containers` by Cahill et al. (CCS 2011). [ACM](http://dl.acm.org/citation.cfm?id=2046659).
+* 4th March 2016, `Client-based authentication technology: user-centric authentication using secure containers` by Cahill et al. (CCS 2011). [ACM](https://dl.acm.org/citation.cfm?id=2046659).
 
-* 26th February 2016, `Attacking and Fixing PKCS#11 Security Tokens` by Bortolozzo et al. (CCS 2010). [PDF](http://www.lsv.ens-cachan.fr/Publis/PAPERS/PDF/BCFS-ccs10.pdf). [ACM](http://dl.acm.org/citation.cfm?id=1866337).
+* 26th February 2016, `Attacking and Fixing PKCS#11 Security Tokens` by Bortolozzo et al. (CCS 2010). [PDF](http://www.lsv.ens-cachan.fr/Publis/PAPERS/PDF/BCFS-ccs10.pdf). [ACM](https://dl.acm.org/citation.cfm?id=1866337).
 
 * 19th February 2016, `Ghost Talk: Mitigating EMI Signal Injection Attacks against Analog Sensors` by Kune et al. (Oakland 2013). [PDF](https://spqr.eecs.umich.edu/papers/fookune-emi-oakland13.pdf). [IEEE](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6547107).
 
@@ -64,9 +66,9 @@ Please note:
 
 * 11th December 2015, `Experimental Analysis of Attacks on Next Generation Air Traffic Communication` by Schäfer, et al. (ANCS 2013). [PDF](http://www.lenders.ch/publications/conferences/acns13.pdf). [Springer Link](http://link.springer.com/chapter/10.1007/978-3-642-38980-1_16). 
 
-* 27th November 2015, `VCR: App-Agnostic Recovery of Photographic Evidence from Android Device Memory Images` by Saltaformaggio, et al. (ACM CCS, 2015). [PDF](https://www.cs.purdue.edu/homes/bsaltafo/pubs/CCS_15_VCR.pdf). [ACM](http://dl.acm.org/citation.cfm?id=2813720).
+* 27th November 2015, `VCR: App-Agnostic Recovery of Photographic Evidence from Android Device Memory Images` by Saltaformaggio, et al. (ACM CCS, 2015). [PDF](https://www.cs.purdue.edu/homes/bsaltafo/pubs/CCS_15_VCR.pdf). [ACM](https://dl.acm.org/citation.cfm?id=2813720).
 
-* 20th November 2015, `Security Considerations for IEEE 802.15.4 Networks` by Naveen Sastry and David Wagner (WiSE'04: Philadelphia, 2004). [PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.61.4359&rep=rep1&type=pdf). [ACM](http://dl.acm.org/citation.cfm?id=1023654).
+* 20th November 2015, `Security Considerations for IEEE 802.15.4 Networks` by Naveen Sastry and David Wagner (WiSE'04: Philadelphia, 2004). [PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.61.4359&rep=rep1&type=pdf). [ACM](https://dl.acm.org/citation.cfm?id=1023654).
 
 * 13th November 2015, `Optimal Information Security Investment with Penetration Testing` by Rainer Böhme and Márk Félegyházi (Decision and Game Theory, 2010). [PDF](https://www.crysys.hu/~mfelegyhazi/publications/BohmeF2010gamesec.pdf). [Springer Link](http://link.springer.com/chapter/10.1007%2F978-3-642-17197-0_2#page-1).
 
@@ -74,17 +76,17 @@ Please note:
 
 * 30th October 2015, `A Riddle Wrapped in an Enigma` by Koblitz and Menezes (IACR ePrint, 2015/1018). [PDF](http://www.math.uwaterloo.ca/~ajmeneze/publications/pqc.pdf).
 
-* 23rd October 2015, `Vuvuzela: Scalable Private Messaging Resistant to Traffic Analysis` by Jelle van den Hooff, David Lazar, et al. (SOSP'15). [PDF](http://dspace.mit.edu/openaccess-disseminate/1721.1/100279). [ACM](http://dl.acm.org/citation.cfm?id=2815417).
+* 23rd October 2015, `Vuvuzela: Scalable Private Messaging Resistant to Traffic Analysis` by Jelle van den Hooff, David Lazar, et al. (SOSP'15). [PDF](http://dspace.mit.edu/openaccess-disseminate/1721.1/100279). [ACM](https://dl.acm.org/citation.cfm?id=2815417).
 
 * 16th October 2015, `Cryptographic Assumptions: A Position Paper` by S. Goldwasser and Y.T. Kalai, (Cryptology ePrint 2015/907, Theory of Cryptography). [PDF](http://eprint.iacr.org/2015/907.pdf). [Springer Link](http://link.springer.com/chapter/10.1007/978-3-662-49096-9_21).
 
 * 14th August 2015, `Keys Under Doormats: Mandating Government Insecurity by Requiring Government Access to All Data and Communications` by Abelson, Anderson, et al. (MIT-CSAIL-TR-2015-026, 2015). [PDF](http://dspace.mit.edu/bitstream/handle/1721.1/97690/MIT-CSAIL-TR-2015-026.pdf). [Oxf. J. CySec](http://cybersecurity.oxfordjournals.org/content/early/2015/11/17/cybsec.tyv009.abstract).
 
-* 17th July 2015, `Shielding Applications from an Untrusted Cloud with Haven` by Baumann, et al. (OSDI'14). [PDF](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-baumann.pdf). [ACM](http://dl.acm.org/citation.cfm?id=2799647).
+* 17th July 2015, `Shielding Applications from an Untrusted Cloud with Haven` by Baumann, et al. (OSDI'14). [PDF](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-baumann.pdf). [ACM](https://dl.acm.org/citation.cfm?id=2799647).
 
-* 3rd July 2015, `Direct Anonymous Attestation` by Brickell, Camenisch, and Chen (ACM CCS'04). [PDF](http://www.hpl.hp.com/techreports/2004/HPL-2004-93.pdf?jumpid=reg_R1002_USEN). [ACM](http://dl.acm.org/citation.cfm?id=1030103).
+* 3rd July 2015, `Direct Anonymous Attestation` by Brickell, Camenisch, and Chen (ACM CCS'04). [PDF](http://www.hpl.hp.com/techreports/2004/HPL-2004-93.pdf?jumpid=reg_R1002_USEN). [ACM](https://dl.acm.org/citation.cfm?id=1030103).
 
-* 19th June 2015, `Design and Implementation of the idemix Anonymous Credential System` by Jan Camenisch and Els Van Herreweghen (CCS'02). [PDF](https://gnunet.org/sites/default/files/idemix.pdf). [ACM](http://dl.acm.org/citation.cfm?id=586114).
+* 19th June 2015, `Design and Implementation of the idemix Anonymous Credential System` by Jan Camenisch and Els Van Herreweghen (CCS'02). [PDF](https://gnunet.org/sites/default/files/idemix.pdf). [ACM](https://dl.acm.org/citation.cfm?id=586114).
 
 * 18th June 2015, `Privacy-preserving targeted mobile advertising` by Yang Liu (Discussion, Oxford DPhil, 2015).
 
@@ -102,7 +104,7 @@ Please note:
 
 * 1st May 2015, `Security of Symmetric Encryption against Mass Surveillance` by Bellare, Paterson, Rogaway. (IACR ePrint, 2014). [PDF](https://eprint.iacr.org/2014/438.pdf). [Springer Link](http://link.springer.com/chapter/10.1007%2F978-3-662-44371-2_1).
 
-* 17th April 2015, `The Chubby lock service for loosely-coupled distributed systems` by Mike Burrows (OSDI'06). [HTML](http://static.usenix.org/events/osdi06/tech/full_papers/burrows/burrows_html/). [ACM](http://dl.acm.org/citation.cfm?id=1298487).
+* 17th April 2015, `The Chubby lock service for loosely-coupled distributed systems` by Mike Burrows (OSDI'06). [HTML](http://static.usenix.org/events/osdi06/tech/full_papers/burrows/burrows_html/). [ACM](https://dl.acm.org/citation.cfm?id=1298487).
 
 * 10th April 2015, `Surreptitiously Weakening Cryptographic Systems` by Schneier, et al. (IACR ePrint, 2015). [PDF](http://eprint.iacr.org/2015/097.pdf). [Alternate](https://www.cyberwar.nl/d/20150209_Surreptitiously-Weakening-Cryptographic-Systems_Schneier-Fredrikson-Kohno-Ristenpart.pdf).
 
@@ -112,13 +114,13 @@ Please note:
 
 * 13th February 2015, `The Quest to Replace Passwords: A Framework for Comparative Evaluation of Web Authentication Schemes` by Bonneau, et al., [IEEE Open Access](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6234436), and `Pico: No more passwords!` by Frank Stajano (Security Protocols XIX, 2011). [PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.221.2090&rep=rep1&type=pdf). [Springer Link](http://link.springer.com/chapter/10.1007/978-3-642-25867-1_6).
 
-* 30th January 2015 `Citizen Electronic Identities using TPM 2.0` by Nyman, et al. (TrustED'14, Scottsdale, Arizona, 3--7 November 2014). [PDF](http://arxiv.org/pdf/1409.1023.pdf). [ACM](http://dl.acm.org/citation.cfm?id=2666146).
+* 30th January 2015 `Citizen Electronic Identities using TPM 2.0` by Nyman, et al. (TrustED'14, Scottsdale, Arizona, 3--7 November 2014). [PDF](http://arxiv.org/pdf/1409.1023.pdf). [ACM](https://dl.acm.org/citation.cfm?id=2666146).
 
 #### 2014:
 
-* 12th December 2014, `New Directions in Cryptography` by Diffie and Hellman, (IEEE Transactions on Information Theory, vol.22, no.6, pp.644,654, Nov 1976). [PDF](https://www-ee.stanford.edu/~hellman/publications/24.pdf). [ACM](http://dl.acm.org/citation.cfm?id=2269104).
+* 12th December 2014, `New Directions in Cryptography` by Diffie and Hellman, (IEEE Transactions on Information Theory, vol.22, no.6, pp.644,654, Nov 1976). [PDF](https://www-ee.stanford.edu/~hellman/publications/24.pdf). [ACM](https://dl.acm.org/citation.cfm?id=2269104).
 
-* 5th December 2014, `A Critical Evaluation of Website Fingerprinting Attacks` by Juarez et al. (CCS 14). [PDF](https://www.eecs.berkeley.edu/~sa499/papers/ccs-webfp-final.pdf). [ACM](http://dl.acm.org/citation.cfm?id=2660267.2660368).
+* 5th December 2014, `A Critical Evaluation of Website Fingerprinting Attacks` by Juarez et al. (CCS 14). [PDF](https://www.eecs.berkeley.edu/~sa499/papers/ccs-webfp-final.pdf). [ACM](https://dl.acm.org/citation.cfm?id=2660267.2660368).
 
 * 28th November 2014, `Large Scale Test of Sensor Fingerprint Camera Identification` by Goljan, Fridrich, and Filler. (IS&T/SPIE Electronic Imaging, 2009). [PDF](http://www.ws.binghamton.edu/fridrich/Research/EI7254-18.pdf). [SPIE](http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=1335147).
 
@@ -128,8 +130,8 @@ Please note:
 
 * 31st October 2014, `Here Come The ⊕ Ninjas` by Duong and Rizzo (Unpublished whitepaper, 2011). [PDF](http://nerdoholic.org/uploads/dergln/beast_part2/ssl_jun21.pdf). [Alternate](http://www.hpcc.ecs.soton.ac.uk/~dan/talks/bullrun/Beast.pdf).
 
-* 24th October 2014, `Rosemary: A Robust, Secure, and High-performance Network Operating System` by Seungwon Shin et al. (CCS 2014). [PDF](http://www.csl.sri.com/users/vinod/papers/rosemary.pdf). [ACM](http://dl.acm.org/citation.cfm?id=2660353).
+* 24th October 2014, `Rosemary: A Robust, Secure, and High-performance Network Operating System` by Seungwon Shin et al. (CCS 2014). [PDF](http://www.csl.sri.com/users/vinod/papers/rosemary.pdf). [ACM](https://dl.acm.org/citation.cfm?id=2660353).
 
-* 17th October 2014, `Deniable Liaisons` by Abhinav Narain, Nick Feamster and Alex C. Snoeren (CCS 2014). [PDF](http://www.cc.gatech.edu/grads/n/nabhinav/ccs2014.pdf). [ACM](http://dl.acm.org/citation.cfm?id=2660340).
+* 17th October 2014, `Deniable Liaisons` by Abhinav Narain, Nick Feamster and Alex C. Snoeren (CCS 2014). [PDF](http://www.cc.gatech.edu/grads/n/nabhinav/ccs2014.pdf). [ACM](https://dl.acm.org/citation.cfm?id=2660340).
 
 Many thanks are due to [Joe Loughry](https://www.cs.ox.ac.uk/people/joe.loughry/) for keeping such immaculate records, and to [Andrew Paverd](https://www.cs.ox.ac.uk/people/andrew.paverd/) for having run the reading group so successfully before me.
