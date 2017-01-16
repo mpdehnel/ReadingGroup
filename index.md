@@ -18,9 +18,12 @@ Please note:
 * New papers will be added when I remember. [Email me](mailto:martin.dehnel-wild@cs.ox.ac.uk?subject=Martin you've forgotten to update the Reading Group Website) if I forget. :-) 
 * Where the publication venue says 'Discussion', this was a discussion-group meeting (included for completeness), rather than a reading group.
 
-#### 2016:
+#### 2017:
 
 * 20th January 2017, `A Unilateral-to-Mutual Authentication Compiler for Key Exchange (with Applications to Client Authentication in TLS 1.3)` by Hugo Krawczyk. (CCS'16). [ACM](https://dl.acm.org/citation.cfm?id=2978325).
+
+
+#### 2016:
 
 * 25th November 2016, `SIBRA: Scalable Internet Bandwidth Reservation Architecture` by Basescu et al. (NDSS’16). [PDF](http://www.scion-architecture.net/pdf/2016-SIBRA.pdf).
 
