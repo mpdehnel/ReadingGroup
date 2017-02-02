@@ -20,6 +20,8 @@ Please note:
 
 #### 2017:
 
+* 3rd Feb 2017, `Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition` by Sharif et al. (CCS'16). [PDF](https://www.cs.cmu.edu/~sbhagava/papers/face-rec-ccs16.pdf).
+
 * 27th Jan 2017, `The Square Root Law of Steganographic Capacity for Markov Covers` by Andrew Ker et al. (SPIE Electronic Imaging 2009). [PDF](http://www.cs.ox.ac.uk/andrew.ker/docs/ADK36B.pdf).
 
 * 20th January 2017, `A Unilateral-to-Mutual Authentication Compiler for Key Exchange (with Applications to Client Authentication in TLS 1.3)` by Hugo Krawczyk. (CCS'16). [ACM](https://dl.acm.org/citation.cfm?id=2978325).
