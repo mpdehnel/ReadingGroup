@@ -20,18 +20,20 @@ Please note:
 
 #### 2017:
 
-* 10th Feb 2017, `SCONE: Secure Linux Containers with Intel SGX` by Arnautov et al. (OSDI '16). [Usenix](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/arnautov). [PDF](https://www.usenix.org/system/files/conference/osdi16/osdi16-arnautov.pdf).
+* 17th Feb 2017, `Chaffinch: Confidentiality in the Face of Legal Threats` by Clayton and Danezis, (Information Hiding 2002). [PDF](https://www.cl.cam.ac.uk/~rnc1/Chaffinch.pdf). [Springer Link](http://link.springer.com/chapter/10.1007/3-540-36415-3_5).
 
-* 3rd Feb 2017, `Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition` by Sharif et al. (CCS'16). [ACM](http://dl.acm.org/citation.cfm?id=2978392). [PDF](https://www.cs.cmu.edu/~sbhagava/papers/face-rec-ccs16.pdf).
+* 10th Feb 2017, `SCONE: Secure Linux Containers with Intel SGX` by Arnautov et al. (OSDI '16). [PDF](https://www.usenix.org/system/files/conference/osdi16/osdi16-arnautov.pdf). [Usenix](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/arnautov).
 
-* 27th Jan 2017, `The Square Root Law of Steganographic Capacity for Markov Covers` by Andrew Ker et al. (SPIE Electronic Imaging 2009). [SPIE DL](http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=1335163). [PDF](http://www.cs.ox.ac.uk/andrew.ker/docs/ADK36B.pdf).
+* 3rd Feb 2017, `Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition` by Sharif et al. (CCS'16). [PDF](https://www.cs.cmu.edu/~sbhagava/papers/face-rec-ccs16.pdf). [ACM](http://dl.acm.org/citation.cfm?id=2978392).
 
-* 20th January 2017, `A Unilateral-to-Mutual Authentication Compiler for Key Exchange (with Applications to Client Authentication in TLS 1.3)` by Hugo Krawczyk. (CCS'16). [ACM](https://dl.acm.org/citation.cfm?id=2978325). [PDF](https://pdfs.semanticscholar.org/fdc8/88105ad8b32d9edd4cdc0452a04bebfdcc7d.pdf).
+* 27th Jan 2017, `The Square Root Law of Steganographic Capacity for Markov Covers` by Andrew Ker et al. (SPIE Electronic Imaging 2009). [PDF](http://www.cs.ox.ac.uk/andrew.ker/docs/ADK36B.pdf). [SPIE DL](http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=1335163). 
+
+* 20th January 2017, `A Unilateral-to-Mutual Authentication Compiler for Key Exchange (with Applications to Client Authentication in TLS 1.3)` by Hugo Krawczyk. (CCS'16). [PDF](https://pdfs.semanticscholar.org/fdc8/88105ad8b32d9edd4cdc0452a04bebfdcc7d.pdf). [ACM](https://dl.acm.org/citation.cfm?id=2978325).
 
 
 #### 2016:
 
-* 25th November 2016, `SIBRA: Scalable Internet Bandwidth Reservation Architecture` by Basescu et al. (NDSS’16). [arXiv](https://arxiv.org/abs/1510.02696). [PDF](http://www.scion-architecture.net/pdf/2016-SIBRA.pdf).
+* 25th November 2016, `SIBRA: Scalable Internet Bandwidth Reservation Architecture` by Basescu et al. (NDSS’16). [PDF](http://www.scion-architecture.net/pdf/2016-SIBRA.pdf). [arXiv](https://arxiv.org/abs/1510.02696).
 
 * 18th November 2016, `Novel session initiation protocol-based distributed denial-of-service attacks and effective defense strategies` by Tas et al. [ScienceDirect](http://www.sciencedirect.com/science/article/pii/S0167404816300980).
 
@@ -43,9 +45,9 @@ Please note:
 
 * 14th October 2016, `Measurement and Analysis of Private Key Sharing in the HTTPS Ecosystem` by Cangialosi et al. (CCS 2016). [PDF](http://www.ccs.neu.edu/home/amislove/publications/KeySharing-CCS.pdf).
 
-* 24th June 2016, `Automated reasoning for equivalences in the applied pi calculus with barriers` by Blanchet and Smyth (CSF 2016). [HAL](https://hal.inria.fr/hal-01306440/). [PDF](http://prosecco.gforge.inria.fr/personal/bblanche/publications/BlanchetSmythCSF16.pdf).
+* 24th June 2016, `Automated reasoning for equivalences in the applied pi calculus with barriers` by Blanchet and Smyth (CSF 2016). [PDF](http://prosecco.gforge.inria.fr/personal/bblanche/publications/BlanchetSmythCSF16.pdf). 
 
-* 17th June 2016, `A2: Analog Malicious Hardware` by Yang, Hicks, Dong, Austin, and Sylvester (IEEE S&P 2016). [IEEE](http://www.ieee-security.org/TC/SP2016/papers/0824a018.pdf). [PDF](http://static1.1.sqspcdn.com/static/f/543048/26931843/1464016046717/A2_SP_2016.pdf).
+* 17th June 2016, `A2: Analog Malicious Hardware` by Yang, Hicks, Dong, Austin, and Sylvester (IEEE S&P 2016). [PDF](http://static1.1.sqspcdn.com/static/f/543048/26931843/1464016046717/A2_SP_2016.pdf). [IEEE](http://www.ieee-security.org/TC/SP2016/papers/0824a018.pdf).
 
 * 3rd June 2016, `Combining Differential Privacy and Secure Multiparty Computation` by Pettai and Laud (IACR ePrint, ACSAC 2015). [PDF](https://eprint.iacr.org/2015/598.pdf).
 
