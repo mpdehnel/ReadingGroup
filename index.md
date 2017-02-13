@@ -20,6 +20,8 @@ Please note:
 
 #### 2017:
 
+* 10th Feb 2017, `SCONE: Secure Linux Containers with Intel SGX` by Arnautov et al. (OSDI '16). [PDF](https://www.usenix.org/system/files/conference/osdi16/osdi16-arnautov.pdf).
+
 * 3rd Feb 2017, `Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition` by Sharif et al. (CCS'16). [PDF](https://www.cs.cmu.edu/~sbhagava/papers/face-rec-ccs16.pdf).
 
 * 27th Jan 2017, `The Square Root Law of Steganographic Capacity for Markov Covers` by Andrew Ker et al. (SPIE Electronic Imaging 2009). [PDF](http://www.cs.ox.ac.uk/andrew.ker/docs/ADK36B.pdf).
