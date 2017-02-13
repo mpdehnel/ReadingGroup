@@ -20,18 +20,18 @@ Please note:
 
 #### 2017:
 
-* 10th Feb 2017, `SCONE: Secure Linux Containers with Intel SGX` by Arnautov et al. (OSDI '16). [PDF](https://www.usenix.org/system/files/conference/osdi16/osdi16-arnautov.pdf).
+* 10th Feb 2017, `SCONE: Secure Linux Containers with Intel SGX` by Arnautov et al. (OSDI '16). [Usenix](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/arnautov). [PDF](https://www.usenix.org/system/files/conference/osdi16/osdi16-arnautov.pdf).
 
-* 3rd Feb 2017, `Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition` by Sharif et al. (CCS'16). [PDF](https://www.cs.cmu.edu/~sbhagava/papers/face-rec-ccs16.pdf).
+* 3rd Feb 2017, `Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition` by Sharif et al. (CCS'16). [ACM](http://dl.acm.org/citation.cfm?id=2978392). [PDF](https://www.cs.cmu.edu/~sbhagava/papers/face-rec-ccs16.pdf).
 
-* 27th Jan 2017, `The Square Root Law of Steganographic Capacity for Markov Covers` by Andrew Ker et al. (SPIE Electronic Imaging 2009). [PDF](http://www.cs.ox.ac.uk/andrew.ker/docs/ADK36B.pdf).
+* 27th Jan 2017, `The Square Root Law of Steganographic Capacity for Markov Covers` by Andrew Ker et al. (SPIE Electronic Imaging 2009). [SPIE DL](http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=1335163). [PDF](http://www.cs.ox.ac.uk/andrew.ker/docs/ADK36B.pdf).
 
-* 20th January 2017, `A Unilateral-to-Mutual Authentication Compiler for Key Exchange (with Applications to Client Authentication in TLS 1.3)` by Hugo Krawczyk. (CCS'16). [ACM](https://dl.acm.org/citation.cfm?id=2978325).
+* 20th January 2017, `A Unilateral-to-Mutual Authentication Compiler for Key Exchange (with Applications to Client Authentication in TLS 1.3)` by Hugo Krawczyk. (CCS'16). [ACM](https://dl.acm.org/citation.cfm?id=2978325). [PDF](https://pdfs.semanticscholar.org/fdc8/88105ad8b32d9edd4cdc0452a04bebfdcc7d.pdf).
 
 
 #### 2016:
 
-* 25th November 2016, `SIBRA: Scalable Internet Bandwidth Reservation Architecture` by Basescu et al. (NDSS’16). [PDF](http://www.scion-architecture.net/pdf/2016-SIBRA.pdf).
+* 25th November 2016, `SIBRA: Scalable Internet Bandwidth Reservation Architecture` by Basescu et al. (NDSS’16). [arXiv](https://arxiv.org/abs/1510.02696). [PDF](http://www.scion-architecture.net/pdf/2016-SIBRA.pdf).
 
 * 18th November 2016, `Novel session initiation protocol-based distributed denial-of-service attacks and effective defense strategies` by Tas et al. [ScienceDirect](http://www.sciencedirect.com/science/article/pii/S0167404816300980).
 
