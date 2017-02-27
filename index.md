@@ -20,6 +20,8 @@ Please note:
 
 #### 2017:
 
+* 3rd March 2017, `FPGA side-channel receivers` by Sun et al. (FPGA '11). [ACM](https://dl.acm.org/citation.cfm?id=1950462).
+
 * 17th Feb 2017, `Chaffinch: Confidentiality in the Face of Legal Threats` by Clayton and Danezis, (Information Hiding 2002). [PDF](https://www.cl.cam.ac.uk/~rnc1/Chaffinch.pdf). [Springer Link](http://link.springer.com/chapter/10.1007/3-540-36415-3_5).
 
 * 10th Feb 2017, `SCONE: Secure Linux Containers with Intel SGX` by Arnautov et al. (OSDI '16). [PDF](https://www.usenix.org/system/files/conference/osdi16/osdi16-arnautov.pdf). [Usenix](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/arnautov).
