@@ -20,6 +20,8 @@ Please note:
 
 #### 2017:
 
+* 10th March 2017, `Optimal Distributed Password Verification` by Camenisch et al. (CCS'15). [PDF](https://www.zurich.ibm.com/pdf/csc/CCS15_passwords.pdf).
+
 * 3rd March 2017, `FPGA side-channel receivers` by Sun et al. (FPGA '11). [ACM](https://dl.acm.org/citation.cfm?id=1950462).
 
 * 17th Feb 2017, `Chaffinch: Confidentiality in the Face of Legal Threats` by Clayton and Danezis, (Information Hiding 2002). [PDF](https://www.cl.cam.ac.uk/~rnc1/Chaffinch.pdf). [Springer Link](http://link.springer.com/chapter/10.1007/3-540-36415-3_5).
