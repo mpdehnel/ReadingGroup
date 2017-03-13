@@ -20,6 +20,8 @@ Please note:
 
 #### 2017:
 
+* 17th March 2017, `Detecting Intentional Packet Drops on the Internet via TCP/IP Side Channels` by Ensafi et al. (PAM'14). [arXiv](https://arxiv.org/pdf/1312.5739.pdf).
+
 * 10th March 2017, `Optimal Distributed Password Verification` by Camenisch et al. (CCS'15). [PDF](https://www.zurich.ibm.com/pdf/csc/CCS15_passwords.pdf).
 
 * 3rd March 2017, `FPGA side-channel receivers` by Sun et al. (FPGA '11). [ACM](https://dl.acm.org/citation.cfm?id=1950462).
