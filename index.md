@@ -20,6 +20,8 @@ Please note:
 
 #### 2017:
 
+* 24th March 2017, `ASLR on the Line: Practical Cache Attacks on the MMU` by Gras, Razavi et al. (NDSS’17). [PDF](https://www.internetsociety.org/sites/default/files/ndss2017_09-1_Gras_paper.pdf).
+
 * 17th March 2017, `Detecting Intentional Packet Drops on the Internet via TCP/IP Side Channels` by Ensafi et al. (PAM'14). [arXiv](https://arxiv.org/pdf/1312.5739.pdf).
 
 * 10th March 2017, `Optimal Distributed Password Verification` by Camenisch et al. (CCS'15). [PDF](https://www.zurich.ibm.com/pdf/csc/CCS15_passwords.pdf).
