@@ -20,6 +20,10 @@ Please note:
 
 #### 2017:
 
+* 5th May 2017, `Systematic Fuzzing and Testing of TLS Libraries`, by Juraj Somorovsky (CCS'16). [PDF](https://www.nds.rub.de/media/nds/veroeffentlichungen/2016/10/19/tls-attacker-ccs16.pdf).
+
+* 7th April 2017, `Reactive and Proactive Standardisation of TLS`, by Kenneth G. Paterson and Thyla van der Merwe (SSR'16). [Springer](https://link.springer.com/chapter/10.1007/978-3-319-49100-4_7).
+
 * 31st March 2017, `Calibrating Noise to Sensitivity in Private Data Analysis`, by Dwork, McSherry et al. (TOC'2006). [PDF](http://www.cse.psu.edu/~ads22/pubs/PS-CSAIL/sensitivity-tcc-final.pdf). [Springer](https://link.springer.com/chapter/10.1007/11681878_14).
 
 * 24th March 2017, `ASLR on the Line: Practical Cache Attacks on the MMU` by Gras, Razavi et al. (NDSS’17). [PDF](https://www.internetsociety.org/sites/default/files/ndss2017_09-1_Gras_paper.pdf).
