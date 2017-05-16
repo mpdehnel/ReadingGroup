@@ -20,6 +20,10 @@ Please note:
 
 #### 2017:
 
+* 19th May 2017, `On The Security of Password Manager Database Formats`, by Gasti and Rasmussen (ESORICS'12). [PDF](https://www.cs.ox.ac.uk/files/6487/pwvault.pdf).
+
+* 12th May 2017, `DRE-ip: A Verifiable E-Voting Scheme without Tallying Authorities`, by Shahandashti and Fao (ESORICS'16). [PDF](https://eprint.iacr.org/2016/670.pdf).
+
 * 5th May 2017, `Systematic Fuzzing and Testing of TLS Libraries`, by Juraj Somorovsky (CCS'16). [PDF](https://www.nds.rub.de/media/nds/veroeffentlichungen/2016/10/19/tls-attacker-ccs16.pdf).
 
 * 7th April 2017, `Reactive and Proactive Standardisation of TLS`, by Kenneth G. Paterson and Thyla van der Merwe (SSR'16). [Springer](https://link.springer.com/chapter/10.1007/978-3-319-49100-4_7).
