@@ -20,6 +20,8 @@ Please note:
 
 #### 2017:
 
+* 26th May, `Wiretapping End-to-End Encrypted VoIP Calls: Real-World Attacks on ZRTP`, by Schürmann et al (PETS'17). [PDF](https://petsymposium.org/2017/papers/issue3/paper01-2017-3-source.pdf).
+
 * 19th May 2017, `On The Security of Password Manager Database Formats`, by Gasti and Rasmussen (ESORICS'12). [PDF](https://www.cs.ox.ac.uk/files/6487/pwvault.pdf).
 
 * 12th May 2017, `DRE-ip: A Verifiable E-Voting Scheme without Tallying Authorities`, by Shahandashti and Fao (ESORICS'16). [PDF](https://eprint.iacr.org/2016/670.pdf).
