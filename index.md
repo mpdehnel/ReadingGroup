@@ -20,6 +20,10 @@ Please note:
 
 #### 2017:
 
+* 20th October, `How to Share a Secret`, by Adi Shamir, (Communications of the ACM, 1979, Volume 22, Number 11). [PDF](http://www.dtic.mil/get-tr-doc/pdf?AD=ADA069397). [ACM](https://dl.acm.org/citation.cfm?id=359176).
+
+* 13th October, `Sex, Lies, and Cyber-Crime Surveys`, by Florencio and Herley (Economics of information security and privacy III, 2012). [PDF](https://www.microsoft.com/en-us/research/wp-content/uploads/2011/06/SexLiesandCybercrimeSurveys.pdf).
+
 * 26th May, `Wiretapping End-to-End Encrypted VoIP Calls: Real-World Attacks on ZRTP`, by Schürmann et al (PETS'17). [PDF](https://petsymposium.org/2017/papers/issue3/paper01-2017-3-source.pdf).
 
 * 19th May 2017, `On The Security of Password Manager Database Formats`, by Gasti and Rasmussen (ESORICS'12). [PDF](https://www.cs.ox.ac.uk/files/6487/pwvault.pdf).
