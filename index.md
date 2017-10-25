@@ -20,6 +20,8 @@ Please note:
 
 #### 2017:
 
+* 27th October, `Indiscreet Logs: Persistent Diffie-Hellman Backdoors in TLS`, by Dorey et al., (IACR ePrint). [PDF](https://eprint.iacr.org/2016/999.pdf).
+
 * 20th October, `How to Share a Secret`, by Adi Shamir, (Communications of the ACM, 1979, Volume 22, Number 11). [PDF](http://www.dtic.mil/get-tr-doc/pdf?AD=ADA069397). [ACM](https://dl.acm.org/citation.cfm?id=359176).
 
 * 13th October, `Sex, Lies, and Cyber-Crime Surveys`, by Florencio and Herley (Economics of information security and privacy III, 2012). [PDF](https://www.microsoft.com/en-us/research/wp-content/uploads/2011/06/SexLiesandCybercrimeSurveys.pdf).
