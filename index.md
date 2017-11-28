@@ -20,6 +20,14 @@ Please note:
 
 #### 2017:
 
+* 1st December, `Herding Vulnerable Cats: A Statistical Approach to Disentangle Joint Responsibility for Web Security in Shared Hosting`, by Tajalizadehkhoob et al. (CCS’17). [PDF](https://acmccs.github.io/papers/p553-tajalizadehkhoobAemb.pdf).
+
+* 24th November, `Towards Linux Kernel Memory Safety`, by Reshetova, Paverd, Liljestrand, and Asokan (ArXiV pre-print). [PDF](https://arxiv.org/pdf/1710.06175v1.pdf).
+
+* 17th November, `Pretzel: email encryption and provider-supplied functions are compatible`, by Gupta et al. (SICOMM’17). [PDF](https://cs.nyu.edu/~mwalfish/papers/pretzel-sigcomm17.pdf). [Morning Paper](https://blog.acolyer.org/2017/10/10/pretzel-email-encryption-and-provider-supplied-functions-are-compatible/).
+
+* 10th November, `Minimizing Embedding Impact in Steganography using Trellis-Coded Quantization`, by Filler et al. (Media Forensics and Security). [PDF](https://pdfs.semanticscholar.org/d5e7/385db8fe409907ae7a6668bd17f912ff99eb.pdf).
+
 * 27th October, `Indiscreet Logs: Persistent Diffie-Hellman Backdoors in TLS`, by Dorey et al., (IACR ePrint). [PDF](https://eprint.iacr.org/2016/999.pdf).
 
 * 20th October, `How to Share a Secret`, by Adi Shamir, (Communications of the ACM, 1979, Volume 22, Number 11). [PDF](http://www.dtic.mil/get-tr-doc/pdf?AD=ADA069397). [ACM](https://dl.acm.org/citation.cfm?id=359176).
