@@ -19,6 +19,7 @@ Please note:
 * Where the publication venue says 'Discussion', this was a discussion-group meeting (included for completeness), rather than a reading group.
 
 #### 2017:
+* 8th December, `Does the Internet Need a Hegemon?`, by Rovner and Moore. (Journal of Global Security Studies 2017) [OUP](https://academic.oup.com/jogss/article/2/3/184/4082200).
 
 * 1st December, `Herding Vulnerable Cats: A Statistical Approach to Disentangle Joint Responsibility for Web Security in Shared Hosting`, by Tajalizadehkhoob et al. (CCS’17). [PDF](https://acmccs.github.io/papers/p553-tajalizadehkhoobAemb.pdf).
 
