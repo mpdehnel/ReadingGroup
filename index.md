@@ -18,6 +18,13 @@ Please note:
 * New papers will be added when I remember. [Email me](mailto:martin.dehnel-wild@cs.ox.ac.uk?subject=Martin you've forgotten to update the Reading Group Website) if I forget. :-) 
 * Where the publication venue says 'Discussion', this was a discussion-group meeting (included for completeness), rather than a reading group.
 
+#### 2018:
+
+* 19th January, `CLKSCREW: Exposing the Perils of Security-Oblivious Energy Management`, by Tang et al. (USENIX 2017). [USENIX](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-tang.pdf).
+
+* 12th January, `Some thoughts on security after ten years of qmail 1.0`, by Daniel J. Bernstein (CSAW'07). [PDF](https://cr.yp.to/qmail/qmailsec-20071101.pdf).
+
+
 #### 2017:
 * 8th December, `Does the Internet Need a Hegemon?`, by Rovner and Moore. (Journal of Global Security Studies 2017) [OUP](https://academic.oup.com/jogss/article/2/3/184/4082200).
 
