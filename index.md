@@ -20,7 +20,7 @@ Please note:
 
 #### 2018:
 
-26th January, `Kleptography: Using Cryptography Against Cryptography`, by Young and Yung (EUROCRYPY 1997). [PDF](https://www.researchgate.net/profile/Moti_Yung/publication/221348188_Kleptography_Using_Cryptography_Against_Cryptography/links/00b7d53b88cb0ca63f000000.pdf). [Springer](https://link.springer.com/content/pdf/10.1007%2F3-540-69053-0_6.pdf).
+* 26th January, `Kleptography: Using Cryptography Against Cryptography`, by Young and Yung (EUROCRYPY 1997). [PDF](https://www.researchgate.net/profile/Moti_Yung/publication/221348188_Kleptography_Using_Cryptography_Against_Cryptography/links/00b7d53b88cb0ca63f000000.pdf). [Springer](https://link.springer.com/content/pdf/10.1007%2F3-540-69053-0_6.pdf).
 
 * 19th January, `CLKSCREW: Exposing the Perils of Security-Oblivious Energy Management`, by Tang et al. (USENIX 2017). [USENIX](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-tang.pdf).
 
