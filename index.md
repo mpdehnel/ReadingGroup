@@ -20,6 +20,8 @@ Please note:
 
 #### 2018:
 
+* 9th March, `On the Practical (In-)Security of 64-bit Block Ciphers: Collision Attacks on HTTP over TLS and OpenVPN` by Bhargavan and Leurent (CCS'16) [PDF](https://eprint.iacr.org/2016/798.pdf).
+
 * 23rd February, `Blue versus Red: Towards a model of distributed security attacks` by Fultz and Grossklags, (FC'09). [PDF](http://people.ischool.berkeley.edu/~jensg/research/paper/Grossklags-FC09.pdf). 
 
 * 16th February, `Dancing on the Lip of the Volcano: Chosen Ciphertext Attacks on Apple iMessage`, by Garman, Green et al. (USENIX 2016). [PDF](https://isi.jhu.edu/~mgreen/imessage.pdf).
